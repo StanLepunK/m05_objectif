@@ -33,6 +33,7 @@ respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/n
 
 
 ## m05_ex00
+```
 intitulé :
 Dans une fenêtre de 640 par 480.
 Réaliser un dégradé du blanc au noir comme l'image d'exemple.
@@ -52,6 +53,7 @@ listes : -
 
 
 ## m05_ex01
+```
 intitulé :
 Dans une fenêtre de 640 par 480.
 Réaliser un dégradé de couleur comme l'image d'exemple.
@@ -70,6 +72,7 @@ listes : -
 ```
 
 ## m05_ex02
+```
 intitulé :
 Dans une fenêtre de 640 par 480.
 Réaliser un disque chromatique comme l'image d'exemple.
